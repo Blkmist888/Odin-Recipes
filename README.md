@@ -1,0 +1,2 @@
+This is a project based upon my current knowledge of how HTML works, via the cirriculum provided by the ODIN PROJECT. 
+In this project I will be creating a recipe website, listing some of my favorite foods/recipes.
